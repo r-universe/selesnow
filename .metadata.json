@@ -1,0 +1,42 @@
+[
+  {
+    "package": "getProxy",
+    "oncran": true
+  },
+  {
+    "package": "rfacebookstat",
+    "oncran": true
+  },
+  {
+    "package": "rgoogleads",
+    "oncran": true
+  },
+  {
+    "package": "rmytarget",
+    "oncran": true
+  },
+  {
+    "package": "rtgstat",
+    "oncran": true
+  },
+  {
+    "package": "rvkstat",
+    "oncran": true
+  },
+  {
+    "package": "ryandexdirect",
+    "oncran": true
+  },
+  {
+    "package": "rym",
+    "oncran": true
+  },
+  {
+    "package": "rytstat",
+    "oncran": true
+  },
+  {
+    "package": "timeperiodsR",
+    "oncran": true
+  }
+]
