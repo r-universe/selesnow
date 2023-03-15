@@ -8,6 +8,21 @@
 	url = https://github.com/selesnow/getproxy
 	shallow = true
 	registered = true
+[submodule "racademyocean"]
+	path = racademyocean
+	url = https://github.com/selesnow/racademyocean
+	shallow = true
+	registered = true
+[submodule "ractivecampaign"]
+	path = ractivecampaign
+	url = https://github.com/selesnow/ractivecampaign
+	shallow = true
+	registered = true
+[submodule "rappsflyer"]
+	path = rappsflyer
+	url = https://github.com/selesnow/rappsflyer
+	shallow = true
+	registered = true
 [submodule "rfacebookstat"]
 	path = rfacebookstat
 	url = https://github.com/selesnow/rfacebookstat
@@ -16,6 +31,11 @@
 [submodule "rgoogleads"]
 	path = rgoogleads
 	url = https://github.com/selesnow/rgoogleads
+	shallow = true
+	registered = true
+[submodule "ringostat"]
+	path = ringostat
+	url = https://github.com/selesnow/ringostat
 	shallow = true
 	registered = true
 [submodule "rmytarget"]

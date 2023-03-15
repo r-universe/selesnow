@@ -4,11 +4,27 @@
     "oncran": true
   },
   {
+    "package": "racademyocean",
+    "oncran": true
+  },
+  {
+    "package": "ractivecampaign",
+    "oncran": true
+  },
+  {
+    "package": "rappsflyer",
+    "oncran": true
+  },
+  {
     "package": "rfacebookstat",
     "oncran": true
   },
   {
     "package": "rgoogleads",
+    "oncran": true
+  },
+  {
+    "package": "ringostat",
     "oncran": true
   },
   {
