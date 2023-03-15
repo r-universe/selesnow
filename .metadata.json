@@ -1,26 +1,6 @@
 [
   {
-    "package": "getProxy",
-    "oncran": true
-  },
-  {
-    "package": "rfacebookstat",
-    "oncran": true
-  },
-  {
-    "package": "rgoogleads",
-    "oncran": true
-  },
-  {
-    "package": "rmytarget",
-    "oncran": true
-  },
-  {
-    "package": "rtgstat",
-    "oncran": true
-  },
-  {
-    "package": "rvkstat",
+    "package": "rym",
     "oncran": true
   },
   {
@@ -28,7 +8,15 @@
     "oncran": true
   },
   {
-    "package": "rym",
+    "package": "rfacebookstat",
+    "oncran": true
+  },
+  {
+    "package": "rvkstat",
+    "oncran": true
+  },
+  {
+    "package": "getProxy",
     "oncran": true
   },
   {
@@ -36,7 +24,19 @@
     "oncran": true
   },
   {
+    "package": "rmytarget",
+    "oncran": true
+  },
+  {
     "package": "timeperiodsR",
+    "oncran": true
+  },
+  {
+    "package": "rtgstat",
+    "oncran": true
+  },
+  {
+    "package": "rgoogleads",
     "oncran": true
   }
 ]
