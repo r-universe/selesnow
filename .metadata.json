@@ -1,10 +1,6 @@
 [
   {
-    "package": "rym",
-    "oncran": true
-  },
-  {
-    "package": "ryandexdirect",
+    "package": "getProxy",
     "oncran": true
   },
   {
@@ -12,15 +8,7 @@
     "oncran": true
   },
   {
-    "package": "rvkstat",
-    "oncran": true
-  },
-  {
-    "package": "getProxy",
-    "oncran": true
-  },
-  {
-    "package": "rytstat",
+    "package": "rgoogleads",
     "oncran": true
   },
   {
@@ -28,15 +16,27 @@
     "oncran": true
   },
   {
-    "package": "timeperiodsR",
-    "oncran": true
-  },
-  {
     "package": "rtgstat",
     "oncran": true
   },
   {
-    "package": "rgoogleads",
+    "package": "rvkstat",
+    "oncran": true
+  },
+  {
+    "package": "ryandexdirect",
+    "oncran": true
+  },
+  {
+    "package": "rym",
+    "oncran": true
+  },
+  {
+    "package": "rytstat",
+    "oncran": true
+  },
+  {
+    "package": "timeperiodsR",
     "oncran": true
   }
 ]
