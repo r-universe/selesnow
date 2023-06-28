@@ -1,80 +1,49 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "galigor"]
 	path = galigor
 	url = https://github.com/cran/galigor
-	shallow = true
-	registered = true
 [submodule "getProxy"]
 	path = getProxy
 	url = https://github.com/selesnow/getproxy
-	shallow = true
-	registered = true
 [submodule "racademyocean"]
 	path = racademyocean
 	url = https://github.com/selesnow/racademyocean
-	shallow = true
-	registered = true
 [submodule "ractivecampaign"]
 	path = ractivecampaign
 	url = https://github.com/selesnow/ractivecampaign
-	shallow = true
-	registered = true
 [submodule "rappsflyer"]
 	path = rappsflyer
 	url = https://github.com/selesnow/rappsflyer
-	shallow = true
-	registered = true
 [submodule "rfacebookstat"]
 	path = rfacebookstat
 	url = https://github.com/selesnow/rfacebookstat
-	shallow = true
-	registered = true
 [submodule "rgoogleads"]
 	path = rgoogleads
 	url = https://github.com/selesnow/rgoogleads
-	shallow = true
-	registered = true
 [submodule "ringostat"]
 	path = ringostat
 	url = https://github.com/selesnow/ringostat
-	shallow = true
-	registered = true
 [submodule "rmytarget"]
 	path = rmytarget
 	url = https://github.com/selesnow/rmytarget
-	shallow = true
-	registered = true
 [submodule "rtgstat"]
 	path = rtgstat
 	url = https://github.com/selesnow/rtgstat
-	shallow = true
-	registered = true
 [submodule "rvkstat"]
 	path = rvkstat
 	url = https://github.com/selesnow/rvkstat
-	shallow = true
-	registered = true
 [submodule "ryandexdirect"]
 	path = ryandexdirect
 	url = https://github.com/selesnow/ryandexdirect
-	shallow = true
-	registered = true
 [submodule "rym"]
 	path = rym
 	url = https://github.com/selesnow/rym
-	shallow = true
-	registered = true
 [submodule "rytstat"]
 	path = rytstat
 	url = https://github.com/selesnow/rytstat
-	shallow = true
-	registered = true
 [submodule "timeperiodsR"]
 	path = timeperiodsR
 	url = https://github.com/selesnow/timeperiodsr
-	shallow = true
-	registered = true
