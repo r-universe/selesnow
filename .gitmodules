@@ -28,7 +28,7 @@
 	url = https://github.com/selesnow/ringostat
 [submodule "rlinkedinads"]
 	path = rlinkedinads
-	url = https://github.com/cran/rlinkedinads
+	url = https://github.com/selesnow/rlinkedinads
 [submodule "rmytarget"]
 	path = rmytarget
 	url = https://github.com/selesnow/rmytarget
