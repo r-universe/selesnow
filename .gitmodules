@@ -14,6 +14,9 @@
 [submodule "ractivecampaign"]
 	path = ractivecampaign
 	url = https://github.com/selesnow/ractivecampaign
+[submodule "rappleads"]
+	path = rappleads
+	url = https://github.com/selesnow/rappleads
 [submodule "rappsflyer"]
 	path = rappsflyer
 	url = https://github.com/selesnow/rappsflyer
