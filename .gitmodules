@@ -38,6 +38,9 @@
 [submodule "rtgstat"]
 	path = rtgstat
 	url = https://github.com/selesnow/rtgstat
+[submodule "rtiktokads"]
+	path = rtiktokads
+	url = https://github.com/selesnow/rtiktokads
 [submodule "rvkstat"]
 	path = rvkstat
 	url = https://github.com/selesnow/rvkstat
