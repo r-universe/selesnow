@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "galigor"]
-	path = galigor
-	url = https://github.com/cran/galigor
 [submodule "getProxy"]
 	path = getProxy
 	url = https://github.com/selesnow/getproxy
@@ -32,9 +29,6 @@
 [submodule "rlinkedinads"]
 	path = rlinkedinads
 	url = https://github.com/selesnow/rlinkedinads
-[submodule "rmytarget"]
-	path = rmytarget
-	url = https://github.com/selesnow/rmytarget
 [submodule "rtgstat"]
 	path = rtgstat
 	url = https://github.com/selesnow/rtgstat
